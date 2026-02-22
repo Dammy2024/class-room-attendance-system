@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -72,7 +71,3 @@ export default defineConfig([
   },
 ])
 ```
-=======
-# class-room-attendance-system
-A classroom attendance system that enables lecturers to record student attendance through a private local network, ensuring that only students physically present and connected to the lecturer’s network can mark attendance.
->>>>>>> 605f81b9844c63bfdc2c76d827e5b0129320a117
